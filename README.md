@@ -2,7 +2,7 @@
 
 ![react-weui](./docs/qrcode.png)
 
-[https://weui.github.io/react-weui](https://weui.github.io/react-weui)
+[https://zuizuihao.github.io/react-weui](https://weui.github.io/react-weui)
 
 ### License
 
